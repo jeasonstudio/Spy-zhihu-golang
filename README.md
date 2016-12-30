@@ -76,7 +76,6 @@ CREATE TABLE IF NOT EXISTS `user` (
     `articles_count` int(100) DEFAULT 0,
     PRIMARY KEY (`my_id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
-
 ```
 
 开始爬取：
